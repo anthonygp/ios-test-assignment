@@ -40,7 +40,7 @@ The purpose of this test assignment is to check applicant's real-world skills in
 
 ### Submission
 
-After you finished your test assignment, please send us a link to download it to hr@mylivn.com. Please do not put your solution to any publicly available place on the internet (like GitHub, BitBucket). Best way to share files with us is to put them to any private cloud storage and provide us a private link.
+After you finished your test assignment, please send us a link to download it to talents@mylivn.com. Please do not put your solution to any publicly available place on the internet (like GitHub, BitBucket). Best way to share files with us is to put them to any private cloud storage and provide us a private link.
 Also please provide a short description containing:
 * How to build and run your application
 * Short description of your solution
